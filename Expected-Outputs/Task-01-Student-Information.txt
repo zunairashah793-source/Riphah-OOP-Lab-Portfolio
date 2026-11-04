@@ -1,7 +1,0 @@
-Sample Run — Task 1
-Enter student name: Ayesha Khan
-Enter student age: 20
-
---- Student Information ---
-Name: Ayesha Khan
-Age: 20
