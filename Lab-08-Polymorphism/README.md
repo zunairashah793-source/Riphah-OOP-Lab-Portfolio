@@ -1,6 +1,6 @@
 # Lab 08 — Polymorphism
 
-Implements the three tasks on pages 104–105 of the manual.
+Implements the three tasks:
 
 1. **Hospital Appointments (overloading):** the `Hospital` class has three `book()` methods with different parameter lists.
 2. **Ride Fare Calculator (overriding):** `Bike`, `Car` and `Rickshaw` override `calculateFare(int km)`. A `Ride[]` array stores the objects and invokes the correct implementation for 10 km.
