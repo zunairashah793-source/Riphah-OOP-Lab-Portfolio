@@ -1,6 +1,6 @@
 # Lab 11 — Login Form Using Java Swing GUI
 
-This practical follows the GUI lab manual on PDF pages 120–124.
+This practical follows the GUI lab manual:
 
 ## Included screens
 
