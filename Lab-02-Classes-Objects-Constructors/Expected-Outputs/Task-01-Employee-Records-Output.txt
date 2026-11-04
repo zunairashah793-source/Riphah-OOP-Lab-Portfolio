@@ -1,0 +1,18 @@
+========== EMPLOYEE RECORDS =========
+
+Employee created using the default constructor:
+Employee Name: Not assigned
+Employee ID: 0
+Salary: Rs. 0.00
+
+Employee created using the parameterized constructor:
+Employee Name: Ayesha Khan
+Employee ID: 1002
+Salary: Rs. 65000.00
+
+Applying a 10% salary increase to Employee 2...
+Updated employee record:
+Employee Name: Ayesha Khan
+Employee ID: 1002
+Salary: Rs. 71500.00
+

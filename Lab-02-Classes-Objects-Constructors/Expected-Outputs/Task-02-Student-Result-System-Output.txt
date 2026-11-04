@@ -1,0 +1,18 @@
+========== STUDENT RESULT SYSTEM =========
+Enter details for 3 students.
+
+Student 1
+Name: Roll number: Marks in Subject 1 (0-100): Marks in Subject 2 (0-100): Marks in Subject 3 (0-100): 
+Student 2
+Name: Roll number: Marks in Subject 1 (0-100): Marks in Subject 2 (0-100): Marks in Subject 3 (0-100): 
+Student 3
+Name: Roll number: Marks in Subject 1 (0-100): Marks in Subject 2 (0-100): Marks in Subject 3 (0-100): 
+
+================ STUDENT RESULTS ================
+Name                Roll No.        Sub 1    Sub 2    Sub 3      Total    Average   Grade
+--------------------------------------------------------------------------------------------------
+Ayesha Khan         101             85.00    90.00    95.00     270.00      90.00       A
+Bilal Ahmed         102             75.00    70.00    80.00     225.00      75.00       C
+Hina Noor           103             55.00    60.00    65.00     180.00      60.00       D
+
+Grade scale: A (90-100), B (80-89.99), C (70-79.99), D (60-69.99), F (below 60).

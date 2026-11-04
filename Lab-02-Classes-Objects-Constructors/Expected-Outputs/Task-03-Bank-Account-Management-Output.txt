@@ -1,0 +1,44 @@
+========== BANK ACCOUNT MANAGEMENT =========
+
+Default account (before customer details):
+Account Holder: Not assigned
+Account Number: N/A
+Balance: Rs. 0.00
+
+Initial account information:
+Account 1
+Account Holder: Ayesha Khan
+Account Number: AC1001
+Balance: Rs. 15000.00
+
+Account 2
+Account Holder: Sara Ahmed
+Account Number: AC1002
+Balance: Rs. 22000.00
+
+Account 3
+Account Holder: Maham Ali
+Account Number: AC1003
+Balance: Rs. 18000.00
+
+Performing transactions on Account 1 (AC1001):
+Deposit successful.
+Withdrawal successful.
+Withdrawal failed: insufficient balance.
+
+Final account balances:
+Account 1
+Account Holder: Ayesha Khan
+Account Number: AC1001
+Balance: Rs. 17000.00
+
+Account 2
+Account Holder: Sara Ahmed
+Account Number: AC1002
+Balance: Rs. 22000.00
+
+Account 3
+Account Holder: Maham Ali
+Account Number: AC1003
+Balance: Rs. 18000.00
+
