@@ -1,0 +1,4 @@
+Regular fee (no discount): Rs. 50000.00
+Regular fee (10% custom discount): Rs. 45000.00
+Scholarship fee (default 20%): Rs. 40000.00
+Scholarship fee (custom 10%): Rs. 45000.00

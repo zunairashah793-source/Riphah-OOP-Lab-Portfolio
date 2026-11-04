@@ -1,0 +1,3 @@
+Appointment booked for Ayesha with a general doctor today.
+Appointment booked for Bilal with Dr. Khan today.
+Appointment booked for Sara with Dr. Ahmed on day 15.

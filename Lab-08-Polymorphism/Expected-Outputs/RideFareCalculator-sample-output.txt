@@ -1,0 +1,3 @@
+Bike fare for 10 km: Rs. 200.00
+Car fare for 10 km: Rs. 400.00
+Rickshaw fare for 10 km: Rs. 300.00
