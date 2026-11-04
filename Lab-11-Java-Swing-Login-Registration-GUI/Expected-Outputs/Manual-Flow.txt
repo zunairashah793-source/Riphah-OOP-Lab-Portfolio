@@ -1,0 +1,6 @@
+1. Run LoginForm.
+2. Enter username student and password 12345.
+3. WelcomeForm opens and displays Welcome, student!
+4. Click Logout to return to LoginForm.
+5. Click Create Account to open RegistrationForm.
+6. Enter valid registration fields and matching passwords; the confirmation dialog appears.
