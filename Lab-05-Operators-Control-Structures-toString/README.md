@@ -1,7 +1,5 @@
 # Lab 05 — Operators, Control Structures and `toString()`
 
-Three tasks transcribed from pages 69–70 of the manual.
-
 ## Tasks
 
 1. **Cinema Ticket Counter:** `CinemaHall` uses `++` to book and `--` to cancel seats, with checks to keep bookings between zero and capacity. The main method books five and cancels two.
