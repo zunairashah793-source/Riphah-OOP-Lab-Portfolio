@@ -1,0 +1,6 @@
+Enter student's name: Original name: Ayesha Khan
+Uppercase: AYESHA KHAN
+Lowercase: ayesha khan
+Number of characters: 11
+First character: A
+Contains letter 'a': true

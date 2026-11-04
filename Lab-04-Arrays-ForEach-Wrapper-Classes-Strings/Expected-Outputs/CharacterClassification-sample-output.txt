@@ -1,0 +1,3 @@
+Enter a single character: Entered character: A
+Integer/Unicode value: 65
+Classification: Uppercase letter

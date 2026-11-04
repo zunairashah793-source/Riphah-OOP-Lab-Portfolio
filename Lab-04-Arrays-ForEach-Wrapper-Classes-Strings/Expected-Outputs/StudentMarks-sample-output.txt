@@ -1,0 +1,11 @@
+Enter marks for five students (0-100):
+Student 1: Student 2: Student 3: Student 4: Student 5: 
+Student marks:
+70
+80
+90
+75
+85
+Total marks: 400
+Average marks: 80.00
+Highest mark: 90
