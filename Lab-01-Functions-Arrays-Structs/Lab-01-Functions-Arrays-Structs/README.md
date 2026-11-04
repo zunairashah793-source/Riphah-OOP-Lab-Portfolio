@@ -38,8 +38,6 @@ You can also open each `.cpp` file in Code::Blocks, Visual Studio, or another C+
 
 ## Learning outcomes
 
-After completing these tasks, a student should be able to pass arrays to functions, return calculated values, define and use a structure, process arrays with loops, and make decisions using conditional statements.
+After completing these tasks, we should be able to pass arrays to functions, return calculated values, define and use a structure, process arrays with loops, and make decisions using conditional statements.
 
 ---
-
-*Academic practice work recreated from the course laboratory manual. The programs are kept as separate files so each task can be compiled and tested independently.*
