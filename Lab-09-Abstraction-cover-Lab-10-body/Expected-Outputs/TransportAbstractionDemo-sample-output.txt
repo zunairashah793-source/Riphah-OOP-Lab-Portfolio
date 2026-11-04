@@ -1,0 +1,4 @@
+Train runs on tracks.
+Uses fuel or electricity.
+Airplane flies in the sky.
+Uses fuel or electricity.

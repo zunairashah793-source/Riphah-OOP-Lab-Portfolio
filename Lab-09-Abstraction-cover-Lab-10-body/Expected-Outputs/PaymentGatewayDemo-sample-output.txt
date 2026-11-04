@@ -1,0 +1,3 @@
+Processing credit card payment of Rs. 2500.00
+Processing PayPal payment of Rs. 1800.00
+Processing UPI payment of Rs. 950.00
