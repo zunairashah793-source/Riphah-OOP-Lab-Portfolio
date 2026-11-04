@@ -1,0 +1,21 @@
+Sample Run — Task 3
+Enter details for Account 1:
+Account holder: Ayesha Khan
+Account number: 001234
+Balance: 5000
+
+Enter details for Account 2:
+Account holder: Bilal Ahmed
+Account number: 005678
+Balance: 12500
+
+--- Bank Account Details ---
+Account holder: Ayesha Khan
+Account number: 001234
+Balance: Rs. 5000.00
+
+Account holder: Bilal Ahmed
+Account number: 005678
+Balance: Rs. 12500.00
+
+Total accounts: 2
