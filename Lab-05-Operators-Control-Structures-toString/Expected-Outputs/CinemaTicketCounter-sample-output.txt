@@ -1,0 +1,11 @@
+Seat booked successfully.
+Seat booked successfully.
+Seat booked successfully.
+Seat booked successfully.
+Seat booked successfully.
+Booking cancelled.
+Booking cancelled.
+
+--- Cinema Hall Status ---
+Booked seats: 3
+Remaining seats: 97

@@ -1,0 +1,7 @@
+Consumer     | Units | Slab      | Approximate bill
+---------------------------------------------------------------
+Ayesha       | Units:  80 | Lifeline  | Rate: Rs. 5.00/unit | Bill: Rs. 400.00
+Bilal        | Units: 150 | Slab-1    | Rate: Rs. 10.00/unit | Bill: Rs. 1500.00
+Hina         | Units: 250 | Slab-2    | Rate: Rs. 15.00/unit | Bill: Rs. 3750.00
+Usman        | Units: 500 | Slab-3    | Rate: Rs. 20.00/unit | Bill: Rs. 10000.00
+Sara         | Units: 800 | Slab-4    | Rate: Rs. 25.00/unit | Bill: Rs. 20000.00
