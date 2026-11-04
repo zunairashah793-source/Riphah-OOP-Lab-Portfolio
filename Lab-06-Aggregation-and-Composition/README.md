@@ -1,7 +1,5 @@
 # Lab 06 — Aggregation and Composition
 
-Based on the two exercises on page 85 of the manual.
-
 ## Task 1 — Team and Player (Aggregation)
 Players are created in `main()` and then passed into a Team. The Player objects are retained in separate variables outside the Team, demonstrating that they can exist independently. The Team stores references in an `ArrayList<Player>`.
 
