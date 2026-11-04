@@ -1,6 +1,4 @@
-# Abstraction — Cover labelled Lab 9; detailed section labelled Lab 10
-
-The manual's divider page labels this topic **Lab 9: Abstraction** (PDF page 106), while the detailed content begins with **Lab 10: Abstraction** (PDF page 108). These pages describe one abstraction unit with two exercises, not two separate sets of practical tasks. This folder preserves both labels until the instructor confirms the numbering to use in submissions.
+# Abstraction — Lab 9
 
 ## Task 1 — Transport abstract class
 - Abstract class `Transport` declares abstract `move()`.
