@@ -1,7 +1,5 @@
 # Lab 07 — Inheritance and Its Types
 
-This folder implements all seven practice tasks on pages 95–96 of the manual.
-
 | Task | Program | Main concept |
 |---|---|---|
 | 1 | PersonStudentDemo | Single inheritance: Student extends Person |
