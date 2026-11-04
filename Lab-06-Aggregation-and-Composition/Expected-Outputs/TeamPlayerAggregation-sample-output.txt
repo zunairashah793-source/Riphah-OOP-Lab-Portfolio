@@ -1,0 +1,9 @@
+Riphah Tigers players:
+Jersey 7 - Ali
+Jersey 10 - Sara
+Jersey 9 - Ahmed
+
+Players still exist after the Team reference is removed:
+Jersey 7 - Ali
+Jersey 10 - Sara
+Jersey 9 - Ahmed
