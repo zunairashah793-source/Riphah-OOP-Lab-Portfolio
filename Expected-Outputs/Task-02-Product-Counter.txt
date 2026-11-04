@@ -1,0 +1,21 @@
+Sample Run — Task 2
+Enter details for Product 1:
+Name: Notebook
+Price: 250
+Quantity: 4
+
+Enter details for Product 2:
+Name: Pen
+Price: 50
+Quantity: 10
+
+--- Product Details ---
+Product: Notebook
+Price: Rs. 250.00
+Quantity: 4
+
+Product: Pen
+Price: Rs. 50.00
+Quantity: 10
+
+Total products created: 2
